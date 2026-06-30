@@ -3,3 +3,5 @@ yellow
 green
 blue
 purple
+indigo
+orange
